@@ -1,0 +1,4 @@
+"QUES","ANSWER1","ANSWER2","ANSWER3","ANSWER4","CORRECT","QUES_NO"
+"Which of these can be returned by the operator & ?","Integer","Boolean","Character","Integer or Boolean","4",""
+"Literal can be of which of these data types?","integer","float","boolean","all of the mentioned","4",""
+"Which of these is data type long literal?","0x99fffL","ABCDEFG","0x99fffa","99671246","1",""

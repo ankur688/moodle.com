@@ -1,0 +1,5 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"QUES","VARCHAR2(500)","Yes","",""
+"ANSWER","VARCHAR2(500)","Yes","",""
+"CORRECT","VARCHAR2(500)","Yes","",""
+"USERNAME","VARCHAR2(500)","Yes","",""

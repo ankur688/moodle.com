@@ -1,0 +1,5 @@
+"QUES","ANSWER1","ANSWER2","ANSWER3","ANSWER4","CORRECT","QUES_NO"
+"C99 standard guarantees uniqueness of ____ characters for internal names.","31","63","12","14","2",""
+"Which of the following is not a valid variable name declaration?","int __a3;","int __3a;","int __A3;","None of the mentioned","4",""
+"All keywords in C are in","LowerCase letters","UpperCase letters","CamelCase letters","None","1",""
+"Which of the following is not a valid C variable name?","int number;","float rate;","int variable_count;","int $main;","4",""
